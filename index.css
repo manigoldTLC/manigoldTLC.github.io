@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("tesla_modelS_2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navbar-brand {
+    margin-left: 1.5%;
+}
+
+.collapse {
+    margin-left: 22.8%;
+}
+
+.text {
+    margin-top: 4.5%;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.button {
+    margin-top: 29%;
+}
+
+.btn-custom {
+    border: none;
+    padding: 5px 65px;
+    border-radius: 50px;
+}
+    .btn-primary {
+        font-size: small;
+        font-family: 'Noto Sans KR', sans-serif;
+        background-color: rgb(57, 63, 70);
+    }
+
+    .btn-primary:hover {
+        background:  rgb(57, 63, 70);
+    }
+
+    .btn-secondary {
+        font-size: small;
+        font-family: 'Noto Sans KR', sans-serif;
+        background-color: white;
+        color: black;
+    }
